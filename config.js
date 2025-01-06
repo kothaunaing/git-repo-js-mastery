@@ -1,1 +1,1 @@
-console.log("config version 1");
+console.log("config version 2");
